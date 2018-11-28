@@ -19,7 +19,8 @@
     <failOnMissingWebXml>false</failOnMissingWebXml>
 </properties>
   
-</project><distributionManagement>
+</project>
+<distributionManagement>
     <repository>
       <id>rupaycard-releases</id>
       <name>rupaycard-releases</name>
