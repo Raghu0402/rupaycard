@@ -4,7 +4,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>rupaycard</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
+  <version>1.0-SNPASHOTS</version>
   <name>rupaycard</name>
   <url>http://maven.apache.org</url>
   <dependencies>
